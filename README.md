@@ -4,7 +4,7 @@
 
 ### Cheers! 👋
 
-I am Sr Infra Engineer on Rabiya Ahmed's Team.
+I am Sr Infra Engineer on [Rabiya Ahmed](https://github.com/RabiyaClari)'s Team.
 
 <!--
 **asokolsky4clari/asokolsky4clari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
