@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 In my free time I [play with computers](https://asokolsky.github.io/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-asokolsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asokolsky/)
-
+[![GitHub Badge](https://img.shields.io/badge/-asokolsky-grey?style=flat&logo=Github&logoColor=white)](https://github.com/asokolsky)
